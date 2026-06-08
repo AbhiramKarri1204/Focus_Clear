@@ -1,0 +1,6 @@
+{
+  "name": "Focus Clear",
+  "description": "Check if photos are out of focus, analyze blur sources, and instantly reconstruct high-clarity sharpened versions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
